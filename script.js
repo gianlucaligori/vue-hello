@@ -9,7 +9,7 @@
 const app = Vue.createApp({
     data() {
       return {
-        message: 'Frank Underwood',
+        title: 'Frank Underwood',
         image: "img/what.jpg"
       }
     }
